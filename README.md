@@ -1,16 +1,16 @@
 # images
 Logos, images, and the sort
 
-# Wonks this Way
+# [Wonks this Way](https://medium.com/wonks-this-way)
 ![](logo/logo3.png)
 
-### [The News]()
+### [The News](https://medium.com/wonks-this-way/tagged/newsletter)
 ![](the-news/the-news.png)
 
 
 ## Editors
 
-### [Kevin Nguyen]()
+### [Kevin Nguyen](https://kvn219.github.io/)
 ![](kevin/kevin.png)
 
 
