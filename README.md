@@ -5,7 +5,7 @@ Logos, images, and the sort
 ![](logo/logo3.png)
 
 ### [The News](https://medium.com/wonks-this-way/tagged/newsletter)
-![](the-news/the-news.png)
+![](the-news/thenews01.png)
 
 
 ## Editors
